@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Manav_\Manav_\bin\Debug\net8.0\Manav_.exe
+C:\Users\User\source\repos\Manav_\Manav_\bin\Debug\net8.0\Manav_.deps.json
+C:\Users\User\source\repos\Manav_\Manav_\bin\Debug\net8.0\Manav_.runtimeconfig.json
+C:\Users\User\source\repos\Manav_\Manav_\bin\Debug\net8.0\Manav_.dll
+C:\Users\User\source\repos\Manav_\Manav_\bin\Debug\net8.0\Manav_.pdb
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.AssemblyInfo.cs
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.dll
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\refint\Manav_.dll
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.pdb
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\Manav_.genruntimeconfig.cache
+C:\Users\User\source\repos\Manav_\Manav_\obj\Debug\net8.0\ref\Manav_.dll
